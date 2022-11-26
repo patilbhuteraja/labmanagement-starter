@@ -1,0 +1,6 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "appService.preDeployTask": "package:labmanagement",
+  "appService.deploySubpath": "target\\labmanagement-0.0.1-SNAPSHOT.jar",
+  "appService.defaultWebAppToDeploy": "/subscriptions/551f6942-d82d-4c4e-99c8-8aa1dca5eaa2/AppServices/subscriptions/551f6942-d82d-4c4e-99c8-8aa1dca5eaa2/resourceGroups/capstone-shb-rg/providers/Microsoft.Web/sites/capstone-shb-app"
+}

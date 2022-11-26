@@ -1,0 +1,11 @@
+com\demo\labmanagement\labmanagement\controllers\LabController.class
+com\demo\labmanagement\labmanagement\controllers\CategoryController.class
+com\demo\labmanagement\labmanagement\models\Author.class
+com\demo\labmanagement\labmanagement\models\Lab.class
+com\demo\labmanagement\labmanagement\repositories\CategoryRepository.class
+com\demo\labmanagement\labmanagement\repositories\AuthorRepository.class
+com\demo\labmanagement\labmanagement\repositories\LabRepository.class
+com\demo\labmanagement\labmanagement\controllers\AuthorController.class
+com\demo\labmanagement\labmanagement\models\LabDto.class
+com\demo\labmanagement\labmanagement\models\Category.class
+com\demo\labmanagement\labmanagement\LabmanagementApplication.class
